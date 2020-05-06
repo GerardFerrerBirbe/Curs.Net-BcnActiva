@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.exe
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.deps.json
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.runtimeconfig.json
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.dll
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\bin\Debug\netcoreapp3.1\Act_Nombre_ciudades.pdb
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.dll
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.pdb
+C:\Users\Gerard\source\repos\Act_Nombre_ciudades\Act_Nombre_ciudades\obj\Debug\netcoreapp3.1\Act_Nombre_ciudades.genruntimeconfig.cache

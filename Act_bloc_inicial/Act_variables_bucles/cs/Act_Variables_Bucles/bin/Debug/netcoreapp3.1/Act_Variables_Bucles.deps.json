@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Act_Variables_Bucles/1.0.0": {
+        "runtime": {
+          "Act_Variables_Bucles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act_Variables_Bucles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

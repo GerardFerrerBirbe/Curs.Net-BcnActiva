@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.exe
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.deps.json
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.runtimeconfig.json
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.dll
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\bin\Debug\netcoreapp3.1\Act_Variables_Bucles.pdb
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.dll
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.pdb
+C:\Users\Gerard\source\repos\Act_Variables_Bucles\Act_Variables_Bucles\obj\Debug\netcoreapp3.1\Act_Variables_Bucles.genruntimeconfig.cache

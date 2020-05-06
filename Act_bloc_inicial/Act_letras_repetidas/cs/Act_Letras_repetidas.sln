@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act_Letras_repetidas", "Act_Letras_repetidas\Act_Letras_repetidas.csproj", "{33E92BDE-F370-4FAF-A899-49830CA98F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E92BDE-F370-4FAF-A899-49830CA98F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E92BDE-F370-4FAF-A899-49830CA98F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E92BDE-F370-4FAF-A899-49830CA98F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E92BDE-F370-4FAF-A899-49830CA98F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD26DB89-F047-4EE7-859E-A8E6939E080E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.exe
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.deps.json
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.runtimeconfig.json
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.dll
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\bin\Debug\netcoreapp3.1\Act_Letras_repetidas.pdb
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.dll
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.pdb
+C:\Users\Gerard\source\repos\Act_Letras_repetidas\Act_Letras_repetidas\obj\Debug\netcoreapp3.1\Act_Letras_repetidas.genruntimeconfig.cache
