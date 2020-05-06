@@ -1,0 +1,58 @@
+Exercici GIT
+
+Objectius- Comprendre que és Git i GitHub.
+- Crear un nou projlinkinecte a GitHub.
+- Aprendre a utilitzar Git amb linea comandes: Commit, Pull, Push, Clone
+- Aprendre a crear una branca en Git i a fer un merge.  
+- Aprendre a utilitzar una eïna visual per a git (proposta: SourceTree).EntregaCrear un repositori al git anomenat: git-exerciciTemps 2-4 diesRecursosYoutube: Link 
+Instal·lació:
+1. Crear un compte a GitHub (si no el tens) 
+2. Instal·lar GIT a la teva màquina: Link
+3. Descarregar i instal·lar SourceTree (Aquesta eïna serveix per a Mac i Windows, en cas de utilitzar Linux podeu descarregar altre eïna, per ejemple GitKraken).
+Tutorial de SourceTree:
+- https://www.youtube.com/watch?v=e8rPu7VgdE8&t=62s
+- https://www.youtube.com/watch?v=GFAlWbHf5Zc (ens phttps://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Gitarla de com fer un merge amb una aplicació externa)
+Tutorial de GitKraken:
+- https://www.youtube.com/watch?v=oyQcwbvKxdk
+- https://www.youtube.com/playlist?list=PLe6EXFvnTV78WqGmGSq8JPnafR3lAa55n
+
+
+El teu primer repositori Git (linea comandes):
+1. Crear un nou repositori al teu GitHub.
+2. Crear una nova carpeta al teu PC. (copia_proyecto_git)
+3. Clonar el repositori a aquesta carpeta del teu ordinador (git clone “url/to/repository”).
+4. Crear un fitxer de text (.txt) en aquesta carpeta.
+5. Fer un commit i push per a pujar els canvis al repositori remot de GitHub.
+
+
+
+Treballar amb branques:
+1. Crear una branca anomenada “branch1”.
+2. Modifica el text del fitxer des d’aquesta branca.
+3. Fes Commit i Push dels canvis. (Si mires al GitHub, hauries de veure que tens dues branques)
+4. Torna a la branca “master”.
+5. Fes un altre canvi al document i fer commit i push.
+6. Des d’aquesta fer merge dels canvis de la “branch1” a la teva branca “master”.
+
+
+Conflictes!
+1. Com era d’esperar, els Git t’avisa que hi ha canvis a les dues branques. En aquest cas tenim 3 opcions:
+a. Mine: seleccionar que els canvis de la branca actual “master” es la versió bona.
+b. Their: seleccionar que els canvis de l’altra branca “branch1” són els bons.
+c. Resoldre el conflicte: Si accedeixes al fitxer veuras que git ha afegit 3 linies de codi, esborrar-les i deixar les dues línies (una per cada branca).
+Per a l’exercici has d’utilitzar l’opció c.
+
+Un cop resolt el conflicte, s’ha de fer commit i push a la branca master. 
+Si tot ha anat correctament, hauries de visualitzar un fluxe com aquest, més o menys:
+
+
+*Per veure aquest gràfic: Accedeix al teu repositori en el GitHub, Insights -> Network (a les opcions de l’esquerra).
+
+Afegeixo un canvi...
+
+Faig un segon canvi...
+                                                                                                
+
+
+
+
