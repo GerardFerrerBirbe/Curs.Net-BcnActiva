@@ -1,0 +1,1 @@
+Exercici inicial Notes examen
