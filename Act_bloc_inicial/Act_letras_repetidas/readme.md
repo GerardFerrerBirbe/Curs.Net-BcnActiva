@@ -1,0 +1,1 @@
+Activitat letras repetidas
