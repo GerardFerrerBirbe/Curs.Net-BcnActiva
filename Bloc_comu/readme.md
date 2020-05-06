@@ -1,1 +1,0 @@
-Exercicis del bloc comú
