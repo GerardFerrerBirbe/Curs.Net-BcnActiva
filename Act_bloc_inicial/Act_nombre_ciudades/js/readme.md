@@ -1,1 +1,1 @@
-Activitat nombre ciudades amb c#
+Activitat nombre ciudades amb JavaScript
