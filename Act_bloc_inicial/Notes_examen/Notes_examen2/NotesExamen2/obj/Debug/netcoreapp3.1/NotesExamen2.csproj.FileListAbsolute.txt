@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.exe
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.deps.json
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.runtimeconfig.json
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.dll
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\bin\Debug\netcoreapp3.1\NotesExamen2.pdb
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.dll
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.pdb
+C:\Users\Gerard\source\repos\NotesExamen2\NotesExamen2\obj\Debug\netcoreapp3.1\NotesExamen2.genruntimeconfig.cache

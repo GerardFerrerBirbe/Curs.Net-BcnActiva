@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.exe
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.deps.json
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.runtimeconfig.json
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.dll
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\bin\Debug\netcoreapp3.1\NotasExamen.pdb
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.dll
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.pdb
+C:\Users\Gerard\source\repos\NotasExamen\NotasExamen\obj\Debug\netcoreapp3.1\NotasExamen.genruntimeconfig.cache

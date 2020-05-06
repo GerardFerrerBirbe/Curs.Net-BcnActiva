@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NotesExamen_bucles/1.0.0": {
+        "runtime": {
+          "NotesExamen_bucles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotesExamen_bucles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.exe
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.deps.json
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.runtimeconfig.json
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.dll
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\bin\Debug\netcoreapp3.1\NotesExamen_bucles.pdb
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.dll
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.pdb
+C:\Users\Gerard\source\repos\NotesExamen_bucles\NotesExamen_bucles\obj\Debug\netcoreapp3.1\NotesExamen_bucles.genruntimeconfig.cache
