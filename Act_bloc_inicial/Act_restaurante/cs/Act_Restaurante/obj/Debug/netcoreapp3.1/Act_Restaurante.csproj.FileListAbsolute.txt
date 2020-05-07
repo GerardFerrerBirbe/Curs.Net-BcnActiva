@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.exe
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.deps.json
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.runtimeconfig.json
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.dll
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\bin\Debug\netcoreapp3.1\Act_Restaurante.pdb
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.dll
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.pdb
+C:\Users\Gerard\source\repos\Act_Restaurante\Act_Restaurante\obj\Debug\netcoreapp3.1\Act_Restaurante.genruntimeconfig.cache
