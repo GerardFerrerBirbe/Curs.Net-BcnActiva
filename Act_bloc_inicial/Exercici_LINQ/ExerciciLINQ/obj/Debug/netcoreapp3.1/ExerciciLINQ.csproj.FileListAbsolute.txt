@@ -1,0 +1,13 @@
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.csprojAssemblyReference.cache
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.AssemblyInfoInputs.cache
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.AssemblyInfo.cs
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.exe
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.deps.json
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.runtimeconfig.json
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.runtimeconfig.dev.json
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.dll
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\bin\Debug\netcoreapp3.1\ExerciciLINQ.pdb
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.dll
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.pdb
+C:\Users\Gerard\source\repos\ExerciciLINQ\ExerciciLINQ\obj\Debug\netcoreapp3.1\ExerciciLINQ.genruntimeconfig.cache
